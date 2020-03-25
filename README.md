@@ -5,7 +5,10 @@
 * *10 Problems*
 
 # Set-1 ✅
-# Set-2
+* *Completed all 5 Problems*
+# Set-2 ✅
+* *Completed 2 out of 5 Problems*
+* *Rest 3 - Private test cases failed!*
 # Set-3
 # Set-4
 # Set-5
