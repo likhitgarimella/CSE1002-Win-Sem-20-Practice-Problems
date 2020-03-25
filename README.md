@@ -12,4 +12,6 @@
 # Set-3
 # Set-4
 # Set-5
-# Set-6
+# Set-6 ✅
+* *Completed 3 out of 5 Problems*
+* *Rest 2 - Private test cases failed!*
