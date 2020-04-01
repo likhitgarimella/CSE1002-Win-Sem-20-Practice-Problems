@@ -15,7 +15,9 @@
 
 ### Set-3
 
-### Set-4
+### Set-4 ✅
+* *Completed 2 out of 5 Problems*
+* *Rest 3 - Correct Code - But Private test cases failed!*
 
 ### Set-5
 
