@@ -19,7 +19,7 @@
 
 ### Set-4 ✅
 * *Completed 2 out of 5 Problems*
-* *Rest 3 - Correct Code - But Private test cases failed!*
+* *[Rest 3 - Correct Code - But Unmatched Output](https://github.com/likhitgarimella/CSE1002-Win-Sem-20-Practice-Problems/tree/master/Set-4%20-%20Rest%203)*
 
 ### Set-5 ✅
 * *Completed 4 out of 5 Problems*
