@@ -27,4 +27,4 @@
 
 ### Set-6 ✅
 * *Completed 3 out of 5 Problems*
-* *Rest 2 - Correct Code - But Private test cases failed!*
+* *[Rest 2 - Correct Code - But Private test cases failed](https://github.com/likhitgarimella/CSE1002-Win-Sem-20-Practice-Problems/tree/master/Set-6%20-%20Rest%202)*
