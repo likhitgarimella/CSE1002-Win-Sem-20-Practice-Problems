@@ -22,6 +22,8 @@
 * *Rest 3 - Correct Code - But Private test cases failed!*
 
 ### Set-5
+* *Completed 4 out of 5 Problems*
+* *1 Left - Correct Code - But Private test cases failed!*
 
 ### Set-6 ✅
 * *Completed 3 out of 5 Problems*
