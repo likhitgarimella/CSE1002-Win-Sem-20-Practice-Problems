@@ -23,7 +23,7 @@
 
 ### Set-5 ✅
 * *Completed 4 out of 5 Problems*
-* *1 Left - Ambiguity in question*
+* *[1 Left - Ambiguity in question](https://github.com/likhitgarimella/CSE1002-Win-Sem-20-Practice-Problems/tree/master/Set-5%20Black%20Coin%20in%20Board%20game)*
 
 ### Set-6 ✅
 * *Completed 3 out of 5 Problems*
