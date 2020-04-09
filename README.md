@@ -3,8 +3,8 @@
 ## Win'20 - BAT (Bonus Problems) ✅
 * *Uploaded on March 16 2020*
 * *10 Problems*
-* *Completed 8 out of 10 Problems / April 1 2020*
-* *[Rest 2 - Correct Code - But Private test cases failed](https://github.com/likhitgarimella/CSE1002-Win-Sem-20-Practice-Problems/tree/master/BAT%20-%20Rest%202)*
+* *Completed 9 out of 10 Problems / April 1 2020*
+* *[Last 1 - Correct Code - But Private test cases failed](https://github.com/likhitgarimella/CSE1002-Win-Sem-20-Practice-Problems/tree/master/BAT%20-%20Rest%202)*
 
 ### Set-1 ✅
 * *Completed all 5 Problems*
